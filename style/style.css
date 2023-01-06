@@ -53,6 +53,14 @@ main {
   margin: 0 auto;
 }
 
+.success-container {
+  display: flex;
+  gap: 87px;
+  align-items: center;
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+
 /* failures section style */
 .failures-container {
   display: flex;
